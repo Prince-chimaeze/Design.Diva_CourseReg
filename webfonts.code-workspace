@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "webfonts",
+			"path": "../../../Downloads/fontawesome-free-6.2.1-web/webfonts"
+		},
+		{
+			"name": "My very own portfolo web",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "My very own portfolo web"
+	}
+}
