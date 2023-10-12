@@ -1,0 +1,59 @@
+<section class="categories">
+        <div class="container categories__container">
+            <div class="categories__left">
+                <h1>Categories</h1>
+                <p>Explore the world's finest courses on our professional course registration platform. Whether you're a novice or an expert, we offer a wide range of top-quality courses to help you excel in your chosen field. Discover your passion and enhance your skills today.</p>
+                <a href="about.html" class="btn">Learn More</a>
+            </div>
+    
+            <div class="categories__right">
+                <article class="category">
+                    <span class="category__icon">
+                        <i class="uil uil-arrow"></i>
+                    </span>
+                    <h5>Web Development</h5>
+                    <p>Master the art of web development with our comprehensive courses. From front-end design to back-end programming, we have everything you need to build a successful career in web development.</p>
+                </article>
+    
+                <article class="category">
+                    <span class="category__icon">
+                        <i class="uil uil-image-resize-landscape"></i>
+                    </span>
+                    <h5>Graphic Design</h5>
+                    <p>Unleash your creativity with our graphic design courses. Learn the latest design software, techniques, and principles to create stunning visuals for various applications.</p>
+                </article>
+    
+                <article class="category">
+                    <span class="category__icon">
+                        <i class="uil uil-palette"></i>
+                    </span>
+                    <h5>UI/UX</h5>
+                    <p>Design user-friendly interfaces and exceptional user experiences with our UI/UX courses. Explore the fundamentals of design thinking and usability to create seamless digital products.</p>
+                </article>
+    
+                <article class="category">
+                    <span class="category__icon">
+                        <i class="uil uil-mobile-android"></i>
+                    </span>
+                    <h5>App Designing</h5>
+                    <p>Turn your app ideas into reality with our app designing courses. Learn the intricacies of mobile app design, from prototyping to responsive layouts.</p>
+                </article>
+    
+                <article class="category">
+                    <span class="category__icon">
+                        <i class="uil uil-music"></i>
+                    </span>
+                    <h5>Music</h5>
+                    <p>Explore the world of music through our courses. Whether you're into composition, performance, or music theory, we have the perfect courses to elevate your musical skills.</p>
+                </article>
+    
+                <article class="category">
+                    <span class="category__icon">
+                        <i class="uil uil-puzzle-piece"></i>
+                    </span>
+                    <h5>Business</h5>
+                    <p>Enhance your business acumen and entrepreneurial skills with our business courses. From management strategies to financial planning, we provide the knowledge you need to succeed in the corporate world.</p>
+                </article>
+            </div>
+        </div>
+    </section>
